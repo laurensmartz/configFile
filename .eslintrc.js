@@ -7,7 +7,7 @@ module.exports = {
   },
   "extends": "airbnb",
   "rules": {
-    // 行末分号
+    // 行末分号.
     "semi": "off",
     // 换行风格LF/CRLF
     "linebreak-style": ["error", "windows"],
